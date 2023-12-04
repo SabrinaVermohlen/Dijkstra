@@ -132,7 +132,7 @@ public class CalculadoraDistancias {
 
             while (true) {
                 System.out.println("Menu:");
-                System.out.println("1) Calcular a distância entre dois pontos (Dijkstra)");
+                System.out.println("1) Calcular a distância entre dois pontos");
                 System.out.println("2) Criar e listar pilha");
                 System.out.println("3) Criar e listar fila");
                 System.out.println("4) Sair");
